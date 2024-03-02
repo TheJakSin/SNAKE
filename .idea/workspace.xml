@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea6b6896-bca4-4bbb-8163-febcf9d88df6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SNAKE.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snake.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/apple.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/golden_apple.png" afterDir="false" />
+    <list default="true" id="ea6b6896-bca4-4bbb-8163-febcf9d88df6" name="Changes" comment="1.0">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +16,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "TheJakSin"
+  }
+}]]></component>
+  <component name="GitHubPullRequestState"><![CDATA[{
+  "prStates": []
+}]]></component>
   <component name="GitLabMergeRequestsSettings"><![CDATA[{}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/TheJakSin/SNAKE",
+    "accountId": "1b5ab775-d747-4a4d-8b4d-38b2961038c9"
+  }
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Snake.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -36,7 +48,8 @@
   "keyToString": {
     "Python.Snake.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -55,6 +68,15 @@
       <option name="presentableId" value="Default" />
       <updated>1709384943030</updated>
     </task>
+    <task id="LOCAL-00001" summary="1.0">
+      <option name="closed" value="true" />
+      <created>1709385455898</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709385455898</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,5 +89,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.0" />
   </component>
 </project>
